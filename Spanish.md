@@ -1,0 +1,10 @@
+# Spanish
+[[Maths]]
+[[Family]]
+[[Adverbs]]
+[[Verbs]]
+[[Questions]]
+[[School]]
+[[Nouns]]
+[[General]]
+[[You]]
