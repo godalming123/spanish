@@ -16,5 +16,5 @@
 - soy **I am**
 - Somos **we are**
 - es **he/she is**
-- **to be**
+- Ser **to be**
 - Eres **you are**

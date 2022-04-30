@@ -15,7 +15,12 @@
 - corto/a
 - calvo **bold**
 ### eg:
-Tengo el pelo rubio y Ricardo y corto no soy calvo
+Tengo el pelo rubio y Rizardo y corto no soy calvo
 ## things
 - Grande **big**
+- Antigua **old**
+- moderan **modern**
+- pequeño **small**
+- bonito **pretty**
+- Cómodo **comfortable**
 - 

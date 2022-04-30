@@ -12,3 +12,7 @@
 - Un gordo **a cap**
 - bigote **moustache**
 - barba **beard**
+- montaña **moatnain**
+- pueblo **village**
+- ciudad **city/big village**
+- Costa **coast**
