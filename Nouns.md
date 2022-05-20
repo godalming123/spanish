@@ -10,9 +10,19 @@
 - pero **dog**
 ## things
 - Un gordo **a cap**
+- Sombrero **hat**
+- La falda **the skirt**
 - bigote **moustache**
 - barba **beard**
 - montaña **moatnain**
 - pueblo **village**
 - ciudad **city/big village**
 - Costa **coast**
+- Tienda **store**
+- Fiesta **festival**
+- El abrigo **the coat**
+- Vestido **dress**
+## clothes
+- Vestido **dress**
+- Falda **skirt**
+- Camisa **shirt**

@@ -6,7 +6,10 @@
 - Terco **stuborn**
 - antipático **mean**
 - simpático **nice**
-
+- Tiene muy personajes **he/she is full of character**
+- Laca **mad**
+- Disfrazado **dressed up**
+- ruidoso **niosy**
 
 ## hair
 - Liso/a
@@ -23,4 +26,8 @@ Tengo el pelo rubio y Rizardo y corto no soy calvo
 - pequeño **small**
 - bonito **pretty**
 - Cómodo **comfortable**
-- 
+- Deferente **deffirent**
+- emociente **exciting**
+- Estúpido **exciting/great**
+- Barato **cheap**
+- Caro **expensive**
